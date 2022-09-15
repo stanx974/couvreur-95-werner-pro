@@ -18,7 +18,7 @@ export default function Home() {
         <Header title="Couvreur 95 Val d'Oise et IDF, - Werner Pro" />
      <h1>Couvreur 95 Val d'oise : werner pro</h1>
     
-  <h2> UNE TOITURE A RENOVER : Faites appel à Couvreur 95 - WERNER PRO </h2>
+  <h2> UNE TOITURE A RENOVER : Faites appel à <b>Couvreur 95 - WERNER PRO</b> </h2>
   <h2>Comment rénover sa toiture</h2>
   <h2>Quel est prix moyen pour la réfection d'une toiture ?</h2>
   <h2>Quelles aides pour refaire sa toiture ?</h2>
